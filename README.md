@@ -70,7 +70,7 @@ Analista de Software · Desenvolvedora Full Stack · Campo Grande, MS 🌿
 
 | Formação | Instituição | Ano |
 |---|---|---|
-| Graduada | TSI — Tecnologia em Sistemas para Internet | IFMS | 2025 | 
+| (Graduada) TSI — Tecnologia em Sistemas para Internet | IFMS | 2025 | 
 | Ensino médio técnico integrado em Informática | CDM | 2019 |
 | Operações de Microcomputador (1 ano) | Curso profissionalizante | 2019 |
 | Design para Iniciantes | Origamid | 2025 |

@@ -2,7 +2,7 @@
 
 # Olá, eu sou a Érika Nascimento 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/%C3%A9rika-barbosa-do-nascimento-492721297))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/erikabnascimento)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/erika.b.nasc)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ebarbosadonascimento.68@gmail.com)
 
@@ -70,8 +70,8 @@ Analista de Software · Desenvolvedora Full Stack · Campo Grande, MS 🌿
 
 | Formação | Instituição | Ano |
 |---|---|---|
-| (Graduada) TSI — Tecnologia em Sistemas para Internet | IFMS | 2025 | 
-| Ensino médio técnico integrado em Informática | CDM | 2019 |
+| TSI — Tecnologia em Sistemas para Internet | IFMS | 2025 | 
+| Ensino médio técnico integrado em Informática | E.E | 2019 |
 | Operações de Microcomputador (1 ano) | Curso profissionalizante | 2019 |
 | Design para Iniciantes | Origamid | 2025 |
 | n8n — Automações | Autotic | 2025 |
